@@ -1,0 +1,1 @@
+Repositório referente a exercícios resolvidos durante o curso de python da escola Mentorama. 
